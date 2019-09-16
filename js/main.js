@@ -6,7 +6,9 @@ InboxSDK.load(2, 'sdk_gmail-apology_0976f5aa46').then(function(sdk){
 
   // the SDK has been loaded, now do something with it!
   sdk.Compose.registerComposeViewHandler(function(composeView){
-    composeView.insertTextIntoBodyAtCursor('Sorry for not getting back to you sooner.');
+    if(composeView.isReply()) {
+      composeView.insertTextIntoBodyAtCursor('Sorry for not getting back to you sooner.');
+    }
   });
 
 });

@@ -3,7 +3,7 @@
   "name": "Sad Banana (for Gmail)",
   "description": "Start every new email with an apology.",
   "author": "Jesse Gardner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "content_scripts": [
     {
       "matches": [
