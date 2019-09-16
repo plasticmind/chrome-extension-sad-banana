@@ -6,7 +6,7 @@ Adds "Sorry for not getting back to you sooner." to the beginning of every new e
 
 ## Installation
 
-Download the <a href="">extensions archive</a> and unzip it. Then, on Chrome's extension page, click "Load Unpacked" and select the unzipped folder.
+Download the <a href="https://github.com/plasticmind/chrome-extension-sad-banana/archive/master.zip" title="The Extension">extensions archive</a> and unzip it. Then, on Chrome's extension page, click "Load Unpacked" (be sure "Developer Mode" is turned on) and select the unzipped folder. Voila!
 
 <img src="screenshot-2.jpg" alt="How to load the extension." width="500">
 
