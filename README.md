@@ -1,3 +1,5 @@
+<img src="sad-banana.jpg" alt="Sad Banana" width="500">
+
 # Sad Banana Chrome Extension for Gmail
 
 Adds "Sorry for not getting back to you sooner." to the beginning of every new email.
