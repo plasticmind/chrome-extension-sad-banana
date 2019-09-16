@@ -2,13 +2,13 @@
 
 Adds "Sorry for not getting back to you sooner." to the beginning of every new email.
 
-<img src="screenshot.jpg" alt="Sad Banana Screenshot" style="max-width:50%">
+<img src="screenshot.jpg" alt="Sad Banana Screenshot" width="500">
 
 ## Installation
 
 Download the <a href="">extensions archive</a> and unzip it. Then, on Chrome's extension page, click "Load Unpacked" and select the unzipped folder.
 
-<img src="screenshot-2.jpg" alt="How to load the extension." style="max-width:50%">
+<img src="screenshot-2.jpg" alt="How to load the extension." width="500">
 
 Reload your Gmail tabs, and now every new email should bear the mark of your self-loating!
 
