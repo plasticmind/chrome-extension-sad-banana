@@ -12,7 +12,7 @@ Download the <a href="https://github.com/plasticmind/chrome-extension-sad-banana
 
 <img src="screenshot-2.jpg" alt="How to load the extension." width="400">
 
-Reload your Gmail tabs, and now every new email should bear the mark of your self-loating!
+Reload your Gmail tabs, and now every new email should bear the mark of your self-loathing!
 
 ## Inspiration
 
